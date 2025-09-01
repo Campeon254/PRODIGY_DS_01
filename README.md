@@ -85,7 +85,8 @@ The dataset was cleaned and prepared for analysis by following these steps:
 The dataset was transformed to facilitate better analysis and visualization. The key steps included:
 
 From the data, we will calculate the population growth and CAGR (Compound Annual Growth Rate) for each continent over the decades.
-- CAGR (Compound Annual Growth Rate) is calculated using the formula: $\frac{Ending Value}{Beginning Value}\times\frac{1}{Number of Years}-1$
+- CAGR (Compound Annual Growth Rate) is calculated using the formula: 
+$$\frac{Ending Value}{Beginning Value}\times\frac{1}{Number of Years}-1$$
 - CAGR is the average annual growth rate of an investment over a specified time period longer than one year.
 
 <div>
